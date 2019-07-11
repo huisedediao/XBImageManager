@@ -1,5 +1,5 @@
 //
-//  UIImageView+webImage.h
+//  UIImageView+WebImage.h
 //  XBImageManager
 //
 //  Created by xxb on 2019/7/11.

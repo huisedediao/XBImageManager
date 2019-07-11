@@ -1,12 +1,12 @@
 //
-//  UIImageView+webImage.m
+//  UIImageView+WebImage.m
 //  XBImageManager
 //
 //  Created by xxb on 2019/7/11.
 //  Copyright © 2019 xxb. All rights reserved.
 //
 
-#import "UIImageView+webImage.h"
+#import "UIImageView+WebImage.h"
 #import "XBImageManager.h"
 
 @implementation UIImageView (webImage)

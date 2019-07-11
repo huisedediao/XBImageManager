@@ -8,7 +8,7 @@
 
 #import "ViewController.h"
 #import "XBImageManager.h"
-#import "UIImageView+webImage.h"
+#import "UIImageView+WebImage.h"
 
 @interface ViewController ()
 

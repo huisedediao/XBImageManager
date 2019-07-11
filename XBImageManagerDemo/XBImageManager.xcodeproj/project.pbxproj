@@ -16,7 +16,7 @@
 		F17137BF22D6BFD400CA0A7E /* XBImageManagerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F17137BE22D6BFD400CA0A7E /* XBImageManagerTests.m */; };
 		F17137CA22D6BFD400CA0A7E /* XBImageManagerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F17137C922D6BFD400CA0A7E /* XBImageManagerUITests.m */; };
 		F17137DA22D6C2B800CA0A7E /* XBImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F17137D922D6C2B800CA0A7E /* XBImageManager.m */; };
-		F17137E122D6CEBD00CA0A7E /* UIImageView+webImage.m in Sources */ = {isa = PBXBuildFile; fileRef = F17137E022D6CEBD00CA0A7E /* UIImageView+webImage.m */; };
+		F17137E122D6CEBD00CA0A7E /* UIImageView+WebImage.m in Sources */ = {isa = PBXBuildFile; fileRef = F17137E022D6CEBD00CA0A7E /* UIImageView+WebImage.m */; };
 		F17137E322D6D0B200CA0A7E /* bgimg.png in Resources */ = {isa = PBXBuildFile; fileRef = F17137E222D6D0B200CA0A7E /* bgimg.png */; };
 /* End PBXBuildFile section */
 
@@ -57,8 +57,8 @@
 		F17137D822D6C2B800CA0A7E /* XBImageManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XBImageManager.h; sourceTree = "<group>"; };
 		F17137D922D6C2B800CA0A7E /* XBImageManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XBImageManager.m; sourceTree = "<group>"; };
 		F17137DB22D6C35700CA0A7E /* XBImageManager.config.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XBImageManager.config.h; sourceTree = "<group>"; };
-		F17137DF22D6CEBD00CA0A7E /* UIImageView+webImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImageView+webImage.h"; sourceTree = "<group>"; };
-		F17137E022D6CEBD00CA0A7E /* UIImageView+webImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+webImage.m"; sourceTree = "<group>"; };
+		F17137DF22D6CEBD00CA0A7E /* UIImageView+WebImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImageView+WebImage.h"; sourceTree = "<group>"; };
+		F17137E022D6CEBD00CA0A7E /* UIImageView+WebImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+WebImage.m"; sourceTree = "<group>"; };
 		F17137E222D6D0B200CA0A7E /* bgimg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bgimg.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -149,8 +149,8 @@
 				F17137D822D6C2B800CA0A7E /* XBImageManager.h */,
 				F17137D922D6C2B800CA0A7E /* XBImageManager.m */,
 				F17137DB22D6C35700CA0A7E /* XBImageManager.config.h */,
-				F17137DF22D6CEBD00CA0A7E /* UIImageView+webImage.h */,
-				F17137E022D6CEBD00CA0A7E /* UIImageView+webImage.m */,
+				F17137DF22D6CEBD00CA0A7E /* UIImageView+WebImage.h */,
+				F17137E022D6CEBD00CA0A7E /* UIImageView+WebImage.m */,
 			);
 			name = XBImageManager;
 			path = ../../XBImageManager;
@@ -290,7 +290,7 @@
 				F17137AA22D6BFD300CA0A7E /* ViewController.m in Sources */,
 				F17137B522D6BFD400CA0A7E /* main.m in Sources */,
 				F17137A722D6BFD300CA0A7E /* AppDelegate.m in Sources */,
-				F17137E122D6CEBD00CA0A7E /* UIImageView+webImage.m in Sources */,
+				F17137E122D6CEBD00CA0A7E /* UIImageView+WebImage.m in Sources */,
 				F17137DA22D6C2B800CA0A7E /* XBImageManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

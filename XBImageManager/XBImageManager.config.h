@@ -10,8 +10,6 @@
 #define XBImageManager_config_h
 
 
-#define kNotice_imageFinishDownload @"kNotice_imageFinishDownload"
-
 #define kUrlStrKey @"urlStr"
 #define kImageKey @"image"
 
